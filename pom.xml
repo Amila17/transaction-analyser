@@ -102,10 +102,9 @@
 
             <dependency>
                 <groupId>io.narayana.nta</groupId>
-                <artifactId>webapp</artifactId>
+                <artifactId>angularui</artifactId>
                 <version>${project.version}</version>
                 <type>war</type>
-                <scope>compile</scope>
             </dependency>
 
             <dependency>
